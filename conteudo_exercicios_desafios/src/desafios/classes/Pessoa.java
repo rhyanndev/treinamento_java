@@ -36,8 +36,6 @@ public class Pessoa {
 		
 	}
 	
-	
-	
     public String apresentar() {
     	double pesoGanho = this.peso - this.pesoInicial;  // Calcula o peso ganho
         return String.format("%s almoçou e ganhou %.2f kg, ficando com: %.2f kg", nome, pesoGanho, peso);
