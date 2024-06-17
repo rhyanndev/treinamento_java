@@ -1,5 +1,9 @@
 package desafios.fundamentos.exercicios;
 
+/*
+ * Criar um programa que leia o valor da base e da altura de um triângulo e calcule a área.
+ * */
+
 import java.util.Scanner;
 
 public class AreaTriangulo {

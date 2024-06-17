@@ -1,5 +1,9 @@
 package desafios.fundamentos.exercicios;
 
+/*
+ * Criar um programa que leia a temperatura em Celsius e converta para Fahrenheit.
+ */
+
 import java.util.Scanner;
 
 public class Celsius {

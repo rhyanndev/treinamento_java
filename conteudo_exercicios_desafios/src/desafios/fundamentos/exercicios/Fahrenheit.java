@@ -1,5 +1,9 @@
 package desafios.fundamentos.exercicios;
 
+/*
+ * Criar um programa que leia a temperatura em Fahrenheit e converta para Celsius.
+ */
+
 import java.util.Scanner;
 
 import java.util.Scanner;
@@ -7,8 +11,6 @@ import java.util.Scanner;
 public class Fahrenheit {
 
 	public static void main(String[] args) {
-
-		// Fórmula: °C = (°F-32) * 5/9
 
 		final double DESLOCAMENTO_FAHRENHEIT = 32;
 		final double FAHRENHEIT_PARA_CELSIUS_FATOR = 5 / 9.0;

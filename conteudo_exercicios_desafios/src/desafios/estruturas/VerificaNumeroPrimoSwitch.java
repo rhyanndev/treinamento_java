@@ -2,6 +2,10 @@ package desafios.estruturas;
 
 import java.util.Scanner;
 
+/*
+ * Refatorar o exercício VerificaNumeroPrimo, utilizando a estrutura switch.
+ * */
+
 public class VerificaNumeroPrimoSwitch {
 
 	public static void main(String[] args) {

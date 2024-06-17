@@ -13,7 +13,7 @@ public class Matriz {
 		int quantidadeAlunos = entrada.nextInt();
 		
 		// Solicita a quantidade de notas por aluno
-		System.out.println("Quantas notas por alunos?");
+		System.out.println("Quantas notas por aluno?");
 		int quantidadeNotas = entrada.nextInt();
 		
 		

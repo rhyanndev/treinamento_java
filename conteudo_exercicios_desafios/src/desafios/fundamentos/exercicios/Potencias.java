@@ -1,5 +1,9 @@
 package desafios.fundamentos.exercicios;
 
+/*
+ * Criar um programa que leia um valor e apresente os resultados ao quadrado e ao cubo do valor.
+ * */
+
 import java.util.Scanner;
 
 public class Potencias {
